@@ -37,14 +37,6 @@ O **Café App** foi desenvolvido para facilitar o pedido de cafés, acompanhar n
 
 ---
 
-## Screenshots
-
-> Adicione aqui screenshots do app para mostrar a interface. Exemplo:
-
-| Tela Inicial | Listagem de Produtos | Detalhe do Produto |
-|--------------|---------------------|--------------------|
-| ![Splash](assets/images/splash.png) | ![Home](assets/images/icon.png) | ![Detalhe](assets/images/adaptive-icon.png) |
-
 ---
 
 ## Como Rodar Localmente
