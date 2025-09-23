@@ -108,17 +108,6 @@ app.json          # Configurações do projeto Expo
 
 ---
 
-## Personalização
-
-Para personalizar ícones, splash ou configurações do app, edite o arquivo [`app.json`](./app.json):
-
-- Imagem do ícone: `assets/images/icon.png`
-- Splash screen: `assets/images/splash.png` ou `icon.png`
-- Favicon (Web): `assets/images/favicon.png`
-- Nome, versão, tema, etc.
-
----
-
 ## Contribuindo
 
 Contribuições são super bem-vindas! Para contribuir:
