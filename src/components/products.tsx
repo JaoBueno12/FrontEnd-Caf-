@@ -40,7 +40,7 @@ export const Product = forwardRef<
       {/* Container com informações do produto */}
       <View className="flex-1 mr-3">
         {/* Categoria do produto (fixo como "Bebida") */}
-        <Text className="text-gray-500 text-xs mb-1">Bebida</Text>
+        <Text className="text-gray-500 text-xs mb-1"></Text>
         {/* Nome do produto */}
         <Text className="text-gray-800 font-bold text-lg mb-1">
           {data.title}
